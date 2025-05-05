@@ -1,4 +1,4 @@
-The application  have a command-line interface menu that allows the user to select one option as below. Once that menu function is completed, the program must return to the main menu. For each menu option, you are allowed (and even recommended, if needed) to have multiple steps to complete the tasks.
+The application  have a command-line interface menu that allows the user to select one option as below. Once that menu function is completed, the program must return to the main menu.
 
 Student Menu:
 
